@@ -12,7 +12,7 @@ pygmentsUseClasses: true
 enableEmoji: true
 #enableGitInfo: true
 
-# googleAnalytics: ""
+googleAnalytics: "G-8H9QCRHZ04"
 
 minify:
     disableXML: true
