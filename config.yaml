@@ -1,4 +1,4 @@
-baseURL: https://darrensemusemu.com/
+baseURL: https://www.darrensemusemu.com/
 languageCode: en-us
 title: Darren Semusemu
 paginate: 5
@@ -99,7 +99,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/darrensemusemu/main-site"
+        URL: "https://github.com/darrensemusemu/main-site/blob/main"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
