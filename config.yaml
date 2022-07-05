@@ -21,7 +21,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: ExampleSite
-    description: "Darren Semusemu's little corner on the internet."
+    description: Darren's journey to a new digital Africa.
     keywords: [Darren, Semusemu, Tafadzwa, Blog, Portfolio, PaperMod]
     author: Darren Semusemu
     # author: ["Me", "You"] # multiple authors
@@ -70,14 +70,11 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Darren Semusemu"
-        Content: >
-          Hi there :wave:
-
-          - This site is currently **WIP** (work in progress). 
-
+        Content: |
+          Everything worthwhile is challenging, as such, I will architect a new digital Africa. I know, quite ambitious, but who is to stop me on a path towards a better Africa?
     socialIcons:
         - name: email
-          url: "mailto:darrensemusemu@gmail.com"
+          url: "mailto:mail@darrensemusemu.com"
         - name: github
           url: "https://github.com/darrensemusemu"
         - name: linkedin
