@@ -71,7 +71,7 @@ params:
     homeInfoParams:
         Title: "Darren Semusemu"
         Content: |
-          Everything worthwhile is challenging, as such, I will architect a new digital Africa. I know, quite ambitious, but who is to stop me on a path towards a better Africa?
+          Software Engineer // Building stuff
     socialIcons:
         - name: email
           url: "mailto:mail@darrensemusemu.com"
