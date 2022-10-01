@@ -3,8 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["arc42", "c4-model", "backend","frontend","hugo"]
-categories: ["code","certify-d", "docs"]
+tags: ["arc42", "certify-d, "c4-model", "hugo"]
+categories: ["backend", "frontend", "code",", "docs"]
 author: ["Darren Semusemu"]
 showToc: true
 TocOpen: false
