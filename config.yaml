@@ -71,7 +71,9 @@ params:
     homeInfoParams:
         Title: "Darren Semusemu"
         Content: |
-          Software Engineer // Building stuff
+          Hi there 👋
+
+          Software Engineer // Building stuff 
     socialIcons:
         - name: email
           url: "mailto:mail@darrensemusemu.com"

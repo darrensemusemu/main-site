@@ -30,7 +30,7 @@ cover:
 ---
 # Introduction
 
-Getting certified copies of official documents should be a simple straightforward task. Currently, this is not the case. It is somewhat tedious, time-consuming, and requires an unnecessary amount of energy for all parties involved.  However, this can be automated into a simple online process. I introduce you to [***Certify-d***](https://certify-d.darrensemusemu.com).
+Getting certified copies of official documents should be a simple straightforward task. Currently, this is not the case. It is somewhat tedious, time-consuming, and requires an unnecessary amount of energy for all parties involved.  However, this can be automated into a simple online process. I introduce you to [***Certify-d***](https://certify-d.darrensemusemu.dev/).
 
 > *Disclaimer: I provide the following only as a way to showcase my skills, learn,  and test the feasibility of such a complex system. Do not use this software in critical situations or projects.*
 
@@ -63,7 +63,7 @@ At the highest level of abstraction, we differentiate the business context and t
 
 As for our business context, we identify:
 
-- Person/Actors: the customer, staff, and commissioners;
+- Person/Actors: the customer, staff, and commissioners (companies);
 - The System: the system at the highest level of abstraction;
 - External Systems: Payment provider, Auth provider, Email service, and SMS service.
 
@@ -77,9 +77,9 @@ The Certify-d system will consist of multiple APIs running as containerised serv
 
 Building the system using [Go(lang)](https://go.dev/) is a clear choice given the following benefits:
 
-- compiles our services to relatively small statically linked native binaries,
-- good support for concurrent programming, and
-- *development team* has good experience with the language and eco-system.
+- *development team* has good experience with the language and eco-system,
+- compiles our services to relatively small statically linked native binaries, and
+- good support for concurrent programming.
 
 We look at functional, unit, and integration tests as providing an acceptable level of functional correctness. 
 
@@ -91,8 +91,7 @@ Use of the [OpenAPI Specification (OAS)](https://spec.openapis.org/oas/v3.1.0) a
 
 # Read More
 
-- [Certify-d API](https://github.com/darrensemusemu/certify-d-api)
-- [Certify-d Front-end](https://github.com/darrensemusemu/certify-d-web)
-
+- [Certify-d API (GitHub)](https://github.com/darrensemusemu/certify-d-api)
+- [Certify-d Front-end (GitHub)](https://github.com/darrensemusemu/certify-d-web)
 
 ![Call to action](/post/images/certify-d-cta2.png)
