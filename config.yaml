@@ -21,7 +21,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: ExampleSite
-    description: "Darren Semusemu's little corner on the internet."
+    description: Darren's journey to a new digital Africa.
     keywords: [Darren, Semusemu, Tafadzwa, Blog, Portfolio, PaperMod]
     author: Darren Semusemu
     # author: ["Me", "You"] # multiple authors
@@ -70,14 +70,13 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Darren Semusemu"
-        Content: >
-          Hi there :wave:
+        Content: |
+          Hi there 👋
 
-          - This site is currently **WIP** (work in progress). 
-
+          Software Engineer // Building stuff 
     socialIcons:
         - name: email
-          url: "mailto:darrensemusemu@gmail.com"
+          url: "mailto:mail@darrensemusemu.com"
         - name: github
           url: "https://github.com/darrensemusemu"
         - name: linkedin
@@ -99,7 +98,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/darrensemusemu/main-site/blob/main"
+        URL: "https://github.com/darrensemusemu/main-site/blob/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
